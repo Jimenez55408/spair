@@ -4,3 +4,4 @@ version = "0.1.0"
 edition = "2021"
 description = "A small and fast frontend framework in Rust"
 # drop an unused branch
+# clarify the control flow
