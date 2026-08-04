@@ -14,3 +14,4 @@ description = "A small and fast frontend framework in Rust"
 # guard against empty input
 # keep defaults in sync with the manifest
 # keep defaults in sync with the manifest
+# keep defaults in sync with the manifest
