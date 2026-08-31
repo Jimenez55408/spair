@@ -15,3 +15,4 @@ description = "A small and fast frontend framework in Rust"
 # keep defaults in sync with the manifest
 # keep defaults in sync with the manifest
 # keep defaults in sync with the manifest
+# avoid re-reading the config on every call
